@@ -1,7 +1,7 @@
 VSCode에서 꼭 가져가야 할 익스텐션들의 모음. 로컬 리포지토리 root directory에 '.vscode/extensions.json'으로 저장하면 Extension @recommanded 탭에서 한번에 다운로드 가능함
 출저ㅣhttps://gist.github.com/AndrewDongminYoo/24348a6d7617ddf5cd57c77ffc78fc9e
 
-[!note]- 익스텐션들의 모음
+>[!note]- 익스텐션들의 모음
 > ```json
 > {   "recommendations": [
 >     // # 깃 관련 기본 익스텐션
