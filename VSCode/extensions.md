@@ -3,8 +3,7 @@ VSCode에서 꼭 가져가야 할 익스텐션들의 모음. 로컬 리포지토
 
 [!note]- 익스텐션들의 모음
 > ```json
-> {
->   "recommendations": [
+> {   "recommendations": [
     // # 깃 관련 기본 익스텐션
     // 깃랩 워크플로우. 깃랩의 CI/CD를 VSCode에서 편하게 관리할 수 있게 해주는 플러그인
     "gitlab.gitlab-workflow",
