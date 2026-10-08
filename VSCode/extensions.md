@@ -32,7 +32,6 @@ VSCode에서 꼭 가져가야 할 익스텐션들의 모음. 로컬 리포지토
 >    // 커밋린트. 프로젝트 메인 컨트리뷰터 등이 정하는 커밋 양식에 따라 커밋 메세지의 한줄 당 문자열 길이 제한, 첫 글자 대문자 금지 등 
 >    // 챙기기 귀찮은 컨벤션을 체크해주는 플러그인. 특별히 설정하지 않으면 프로젝트 내에 commitlint.config.js 파일이 있을 때만 작동함
 >    "joshbolduc.commitlint",
-
 >    // # 테마/아이콘 관련 익스텐션
 >    // VSCode Icons. VSCode 아이콘 개발팀에서 만든 공식 아이콘팩
 >    "vscode-icons-team.vscode-icons",
@@ -42,14 +41,12 @@ VSCode에서 꼭 가져가야 할 익스텐션들의 모음. 로컬 리포지토
 >    "equinusocio.vsc-material-theme-icons",
 >    // 머터리얼 스타일로 디자인한 아이콘팩 (뷰, 리액트, 앵귤러 등 Node.js 라이브러리 특화)
 >    "pkief.material-icon-theme",
-
 >    // # 개발자 자기관리 관련 익스텐션
 >    // 와카타임 (언어별 코딩시간 측정, 깃헙에 통계로 표시)
 >    // VSCode 뿐만 아니라 XCode 외에는 대부분의 IDE에서 지원하는 플러그인. 로컬에 설정파일을 저장하면 터미널, 브라우저 사용시간까지 측정.
 >    "wakatime.vscode-wakatime",
 >    // 스테이트풀 (와카타임과 유사하지만 훨씬 풍부한 UI를 제공하는 플러그인) 오늘의 코딩시간, 주간/월간/연간 코딩시간 등을 통계로 보여줌. 랭킹도 있음.
 >    "stateful.stable",
-
 >    // # 자바스크립트/타입스크립트 관련 익스텐션
 >    // 리액트 네이티브 툴 (리액트 네이티브 개발을 위한 서포트 플러그인)
 >    "msjsdiag.vscode-react-native",
@@ -63,13 +60,12 @@ VSCode에서 꼭 가져가야 할 익스텐션들의 모음. 로컬 리포지토
 >    "dbaeumer.vscode-eslint",
 >    // ES7 React/Redux/GraphQL/React-Native snippets. ES7 이후의 자바스크립트 문법으로 리액트 스니펫을 자동완성해주는 플러그인
 >    "dsznajder.es7-react-js-snippets",
-
 >    // # 코드 내 주석 관련 익스텐션
 >    // "Generate Documentation"이라는 컨텍스트 커맨드로, TypeScript, JavaScript 블록커멘트를 간단하게 AI 생성해주는 플러그인
 >    "oouo-diogo-perdigao.docthis",
 >    // Better Comments. 코드 블럭 작성 시 TODO, FIXME, NOTE 등의 주석을 작성하면, 해당 주석에 대한 하이라이트가 표시되는 플러그인.
 >    "aaron-bond.better-comments",
-
+>
 >    // # NPM 패키지 관리 익스텐션
 >    // 버전렌즈 (package.json 같은 파일에서 V 아이콘 누르면 패키지 버전 확인). 항상 최신의 패키지를 사용하고 싶다면 이 플러그인을 사용하면 좋음.
 >    "pflannery.vscode-versionlens",
@@ -89,7 +85,7 @@ VSCode에서 꼭 가져가야 할 익스텐션들의 모음. 로컬 리포지토
 >    // 빌드 시에는 빌드 툴이 임포트한 패키지의 용량을 최대한 줄여주지만, 불필요한 임포트를 줄이기에 좋음.
 >    // NPM 외에 플러터 같은 프로젝트에서도 사용 가능
 >    "wix.vscode-import-cost",
-
+>
 >    // # 라이브 익스텐션
 >    // 라이브셰어. 실시간으로 다른 사람과 코드를 공유할 수 있게 해주는 플러그인
 >    "ms-vsliveshare.vsliveshare",
@@ -97,7 +93,7 @@ VSCode에서 꼭 가져가야 할 익스텐션들의 모음. 로컬 리포지토
 >    "ritwickdey.liveserver",
 >    // 라이브서버 프리뷰. 위 익스텐션과 같은 기능이지만 VSCode 에디터 창으로 미리보기를 제공해주는 플러그인
 >    "ms-vscode.live-server",
-
+>
 >    // # 휴먼 실수 방지 익스텐션 (린터/포맷터/오탈자 체크 등)
 >    // 프리티어 (코드 포맷터)의 VSCode 플러그인. 프리티어 설정 파일(.prettierrc 등)이 있으면 자동으로 적용됨
 >    "esbenp.prettier-vscode",
@@ -123,7 +119,7 @@ VSCode에서 꼭 가져가야 할 익스텐션들의 모음. 로컬 리포지토
 >    "visualstudioexptteam.intellicode-api-usage-examples",
 >    // VSCode 공식 AI 익스텐션 인텔리코드. 코드 자동완성, 코드 리팩토링 등을 제공하는 플러그인
 >    "visualstudioexptteam.vscodeintellicode",
-
+>
 >    // # 편의성 익스텐션
 >    // 텍스트 파워툴즈 (문자열에 관련된 거의 모든 기능을 제공하는 플러그인. 정렬, 카멜케이스, 스네이크케이스 변경 등)
 >    "qcz.text-power-tools",
